@@ -1,0 +1,8 @@
+.DS_Store
+.env*
+
+data/*
+!data/.gitkeep
+
+docs/transcripts/*
+!docs/transcripts/README.md
